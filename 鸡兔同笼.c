@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-	float to,tu,t,j;
+	int to,tu,t,j;
 	printf("%s\n","总共头数：");
 	scanf("%d\n",&to);
 	printf("%s\n","总共脚数：");
